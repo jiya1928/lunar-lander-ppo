@@ -8,6 +8,7 @@ The agent learns to land by itself - no human control, no hard-coded rules. Just
 
 Watch the trained agent land autonomously.
 Video: 5 consecutive autonomous landings, 0 crashes
+https://github.com/user-attachments/assets/f3ae6ab8-0873-4bab-814d-eb7df13e3140
 
 ## The Problem
 
